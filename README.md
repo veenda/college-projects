@@ -4,3 +4,4 @@ A collection of my academic projects
 
 ## 📁 Projects
 - [BMI Calculator](./BMI-calculator/BMI-calculator.c)
+- [Temperature Converter](./temperature-converter/temperature-converter.c)
