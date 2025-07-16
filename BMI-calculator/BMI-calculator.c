@@ -1,8 +1,8 @@
-                                                                                                                                                                                                                                                                                                                                                        #include <stdio.h>
-                                                                                                                                                                                                                                                                                                                                                        #include <stdbool.h>
+#include <stdio.h>
+#include <stdbool.h>
 
 
-                                                                                                                                                                                                                                                                                                                                                        int main()
+int main()
                                                                                                                                                                                                                                                                                                                                                         {
                                                                                                                                                                                                                                                                                                                                                             // NAMA KALKULATOR //
                                                                                                                                                                                                                                                                                                                                                             printf("WELCOME TO BODY MASS INDEX (BMI) CALCULATOR!\n");
