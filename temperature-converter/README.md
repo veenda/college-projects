@@ -6,15 +6,9 @@ This is an individual project created by Veenda Putri Divo to fullfill a basic p
 
 ## Features
 - **Unit Selection**
-  <p>This program offers 4 temperature units:</p>
-  1. Reamur</p>
-  2. Celcius</p>
-  3. Farenheit</p>
-  4. Kelvin</p>
+  <p>This program offers 4 temperature units: (1) Reamur, (2) Celcius, (3) Fraenheit, and (4) Kelvin </p>
+
   <pre>
-  printf("\n\e[0;31m");
-  printf("Pilihan Anda tidak benar.\n");
-  printf("\e[0m\n");
   printf("[1] Reamur\n");                         // <-- case 1
   printf("[2] Celcius\n");                        // <-- case 2
   printf("[3] Farenheit\n");                      // <-- case 3
