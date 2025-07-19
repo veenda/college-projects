@@ -1,6 +1,6 @@
 # BMI Calculator Project
 
-This program calculates a user's Body Mass Index (BMI) based on their height and weight, then classifies the result according to [WHO standards](https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/body-mass-index). The classification will follows:
+This is an individual project created by Veenda Putri Divo to fullfill a basic programming assignment. The program is written in C and functions as console-based BMI calculator. This program calculates a user's Body Mass Index (BMI) based on their height and weight, then classifies the result according to [WHO standards](https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/body-mass-index). The classification will follows:
 <table>
    <tr>
       <td><strong>BMI Range</strong></td>
