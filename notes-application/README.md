@@ -1,1 +1,1 @@
-# NotesApplication Project
+# Notes Application Project
